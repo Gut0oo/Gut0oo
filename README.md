@@ -2,20 +2,21 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hey there 👋, I'm Gustavo Melo</h1>
+<h1 align="center">Hey 👋, I'm Gustavo Melo</h1>
 
 ###
 
-<h3 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">💻 Aspiring Backend Developer</h3>
 
 ---
 
 ### 👩‍💻 About Me  
 
-- 🔭 I’m currently working on improving my skills in software development  
-- 🌱 I’m currently learning **Java, Python and C/C++**  
-- ⚡ Fun fact: I love solving logic problems and exploring new technologies  
-- 🎯 Goal: Become a strong developer in **backend and systems programming**  
+- 🎓 Currently pursuing a **Bachelor's degree in Computer Science (4th semester)**  
+- 💼 Working as an **IT Support Intern**, focusing on troubleshooting and user assistance  
+- 🌱 Currently studying **Java**  
+- 📚 Planning to learn **SQL** to improve my database skills  
+- 🎯 Goal: Become a **Backend Developer specialized in Java**   
 
 ---
 
