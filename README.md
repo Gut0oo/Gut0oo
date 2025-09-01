@@ -1,20 +1,23 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Gustavo Melo</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">💻 Software Developer | 🚀 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
-###
+---
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+### 👩‍💻 About Me  
 
-###
+- 🔭 I’m currently working on improving my skills in software development  
+- 🌱 I’m currently learning **Java, Python and C/C++**  
+- ⚡ Fun fact: I love solving logic problems and exploring new technologies  
+- 🎯 Goal: Become a strong developer in **backend and systems programming**  
+
+---
 
 ### 🛠 Languages & Tools  
 
